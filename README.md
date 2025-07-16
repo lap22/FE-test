@@ -2,9 +2,7 @@
 
 Ứng dụng React TypeScript với Material-UI cho sàn giáo dục thương mại điện tử tích hợp AI, nơi người dùng có thể tìm kiếm, khám phá và yêu thích các khóa học hoặc sản phẩm giáo dục.
 
-## 🚀 Demo
 
-**Live Demo:** [https://vunhatcr7.github.io/ecom](https://vunhatcr7.github.io/ecom)
 
 ## 🚀 Tính Năng
 
@@ -48,8 +46,8 @@
 
 ### Bước 1: Clone Repository
 ```bash
-git clone https://github.com/vunhatcr7/ecom.git
-cd ecom
+git clone https://github.com/lap22/FE-test.git
+cd ecom-main
 ```
 
 ### Bước 2: Cài Đặt Dependencies
